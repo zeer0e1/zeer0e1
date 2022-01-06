@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas 
 
-- 👨‍🏭 Hoje trabalho como analista de sistemas e tenho bastante contato com Banco de dados SQL mas quero micrar para área de desenvolvimento.
+- 👨‍🏭 Hoje trabalho como analista de sistemas e tenho bastante contato com Banco de dados SQL mas quero migrar para área de desenvolvimento.
 - 🌱 Estudando desenvolvimento mobile e Web com as tecnologias:
     * <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> ReactNative /  React
     * <img align="center"  alt="Lucas-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="15"/> Flutter
