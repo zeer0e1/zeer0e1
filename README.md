@@ -1,9 +1,10 @@
 ### Olá! Eu sou o Lucas 
 
-- 👨‍🏭 Hoje trabalho como analista de sistemas e tenho bastante contato com Banco de dados SQL mas quero migrar para área de desenvolvimento web e mobile.
-- 🌱 Estudando desenvolvimento mobile e Web com as tecnologias:
-    * <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> ReactNative /  React
-    * <img align="center"  alt="Lucas-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="15"/> Flutter
+- 👨‍🏭 Hoje trabalho como analista de sistemas e tenho bastante contato com Banco de dados SQL mas quero me aperfeiçar em Data Science.
+- 🌱 Estudando Data Science e Web com as tecnologias:
+    * <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python
+    * <img align="center"  alt="Lucas-Pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="15"/> Pandas
+    * <img align="center"  alt="Lucas-django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="15"/> Django
 - 📫 Contate-me no email : lucazfreitaz@gmail.com
 
 <div align="center">
