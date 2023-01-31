@@ -1,7 +1,7 @@
 ![Snake animation](https://github.com/lucazfreitaz/lucazfreitaz/blob/output/github-contribution-grid-snake.svg)
 
 <h1 align="center">Hi 👋, I'm Lucas Ribeiro</h1>
-<h3 align="center" style="color:red">Web-Dev From Brazil</h3>
+<h3 align="center" style="color:red">Web developer From Brazil</h3>
 
 - 🔭 I’m currently working on **my Front-End Skills**
 
