@@ -21,7 +21,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="center"> 
+<p align="flex-start"> 
 
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -33,17 +33,16 @@
 </p>
 
 ----------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeer0e1&&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---Most Used Languages--->
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasFGR&show_icons=true&locale=en&bg_color=191919&text_color=0dfc91&border_color=0dfc91&title_color=0dfc91" alt="Lucas Freitas" />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeer0e1&layout=compact&show_icons=true&theme=dracula)
 <br>
 <!---GitHub Stats--->
 
 <!---Streak Stats--->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lucasFGR&theme=merko&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zeer0e1&theme=dracula)](https://git.io/streak-stats)
 
 
 
