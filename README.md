@@ -28,17 +28,20 @@
   <img align="center" alt="Rafa-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Python" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 
 </p>
 
 ---
 
 <div>
+  <p align="center">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeer0e1&&layout=compact&theme=dracula" />
   
-<img height="180em" src= "https://streak-stats.demolab.com?user=zeer0e1&theme=dracula" />
 
+  <img height="180em" src= "https://streak-stats.demolab.com?user=zeer0e1&theme=dracula" />
 
+  </p>
 
 </div>
 
