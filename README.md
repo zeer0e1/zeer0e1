@@ -32,15 +32,12 @@
 </p>
 
 ---
-<!---Most Used Languages--->
+
 <div>
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeer0e1&&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeer0e1&&layout=compact&theme=dracula" />
   
-<img height="180em" src= "https://streak-stats.demolab.com?user=zeer0e1&theme=dracula)](https://git.io/streak-stats)" />
+<img height="180em" src= "https://streak-stats.demolab.com?user=zeer0e1&theme=dracula" />
 
-<!---GitHub Stats--->
-
-<!---Streak Stats--->
 
 
 </div>
