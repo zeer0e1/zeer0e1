@@ -11,17 +11,16 @@
 
 ---
 <h3 align="left">Connect with me:</h3>
-
-
 <p align="left">
 
-  <a href="https://www.linkedin.com/in/lucasfreitaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-abrahão" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/lucasfreitaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lucas Ribeiro" height="30" width="40" />
   </a>
 </p>
 
+---
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="flex-start"> 
+<p align="center"> 
 
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -32,17 +31,17 @@
 
 </p>
 
-----------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeer0e1&&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
+---
 <!---Most Used Languages--->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeer0e1&layout=compact&show_icons=true&theme=dracula)
-<br>
+<div>
+  <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeer0e1&&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats" />
+  
+<img height="200em" src= "https://streak-stats.demolab.com?user=zeer0e1&theme=dracula)](https://git.io/streak-stats)" />
+
 <!---GitHub Stats--->
 
 <!---Streak Stats--->
-[![GitHub Streak](https://streak-stats.demolab.com?user=zeer0e1&theme=dracula)](https://git.io/streak-stats)
 
 
+</div>
 
