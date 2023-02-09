@@ -1,5 +1,5 @@
 ![Snake animation](https://github.com/lucazfreitaz/lucazfreitaz/blob/output/github-contribution-grid-snake.svg)
-![](https://komarev.com/ghpvc/?username=zeer0e1&color=006bed)
+![](https://komarev.com/ghpvc/?username=zeer0e1&color=blueviolet)
 <h1 align="center">Hi 👋, I'm Lucas Ribeiro</h1> 
 
 <h3 align="center" style="color:red">Web developer From Brazil</h3>
