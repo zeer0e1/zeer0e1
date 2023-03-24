@@ -2,11 +2,11 @@
 ![](https://komarev.com/ghpvc/?username=zeer0e1&color=blueviolet)
 <h1 align="center">Hi 👋, I'm Lucas Ribeiro</h1> 
 
-<h3 align="center" style="color:red">Web developer From Brazil</h3>
+<h3 align="center" style="color:red">Python Developer From Brazil</h3>
 
-- 🔭 I’m currently working on **my Front-End Skills**
+- 🔭 I’m currently working on **my Back-end Skills**
 
-- 🌱 I’m currently learning **TypeScript and React**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **lucasfreitasr@outlook.com**
 
