@@ -37,7 +37,7 @@
 
 <div>
   <p align="center">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeer0e1&&layout=compact&theme=dracula" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeer0e1&&hide=css,html&layout=compact&theme=dracula" />
   
 
   <img height="180em" src= "https://streak-stats.demolab.com?user=zeer0e1&theme=dracula" />
