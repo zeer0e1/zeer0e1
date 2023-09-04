@@ -8,10 +8,6 @@
   <img src="https://github-readme-stats-nu-beryl.vercel.app/api/top-langs?username=zeer0e1&locale=en&hide_title=false&layout=compact&card_width=120&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-
-###
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
