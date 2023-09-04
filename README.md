@@ -2,7 +2,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
 
   <img src="https://github-readme-stats-nu-beryl.vercel.app/api?username=zeer0e1&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true" height="120" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=zeer0e1&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="120" alt="streak graph"  />
