@@ -1,16 +1,18 @@
 <h2 align="left">Eae, beleza ?👋! Meu nome é Lucas Ribeiro</h2>
-
-###
-
+<hr/>
 <div align="center">
-
   <img src="https://github-readme-stats-nu-beryl.vercel.app/api?username=zeer0e1&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true" height="140" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=zeer0e1&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="140" alt="streak graph"  />
   <img src="https://github-readme-stats-nu-beryl.vercel.app/api/top-langs?username=zeer0e1&locale=en&hide_title=false&layout=compact&card_width=120&langs_count=5&theme=dracula&hide_border=true" height="140" alt="languages graph"  />
 </div>
+<hr/>
+
+
 
 
 <div align="left">
+
+  
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="30" alt="django logo"  />
@@ -37,9 +39,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="30" alt="ubuntu logo"  />
 </div>
-
-###
-
+<hr/>
 <div align="center">
   <a href="lucazfreitaz@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -48,7 +48,4 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-<br clear="both">
-
-###
+<hr/>
