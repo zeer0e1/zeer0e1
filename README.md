@@ -51,6 +51,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/zeer0e1/zeer0e1/output/snake.svg" alt="Snake animation" />
-
 ###
