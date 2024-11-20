@@ -1,4 +1,4 @@
-<h2 align="left">Eae, beleza ?👋! Meu nome é Lucas Ribeiro</h2>
+<h2 align="left">Eae, beleza ?👋!</h2>
 <hr/>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=zeer0e1&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="140" alt="streak graph"  />
