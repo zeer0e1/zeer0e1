@@ -21,12 +21,11 @@
 </div>
 
 ---
-
 <h3 align="left">📊 Minhas Estatísticas no GitHub</h3>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeer0e1&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</div>
 
+[![zeer0e1 GitHub stats](https://github-stats-extended.vercel.app/api?username=zeer0e1)](https://github.com/stats-organization/github-stats-extended)
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=zeer0e1&langs_count=4)
 ---
 
 <h3 align="left">🛠️ Tecnologias e Ferramentas</h3>
