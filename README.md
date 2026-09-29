@@ -1,75 +1,77 @@
-<h2 align="left">E aí, beleza? 👋</h2>
-
-<p align="left">
-  Sou o Lucas, um desenvolvedor que adora resolver problemas e criar soluções impactantes. Minha curiosidade me levou a mergulhar no universo de Data Science, Inteligência Artificial e Big Data, onde estou focado em aprimorar minhas habilidades para atuar com análise e automação de dados.
-</p>
-
----
-
-<h3 align="left">🎓 Formação Acadêmica</h3>
-<div align="left">
-  <p>
-    <b>Análise e Desenvolvimento de Sistemas</b> - Uninter
-    <br/>
-    <small>Foco em desenvolvimento de software e sistemas.</small>
-  </p>
-  <p>
-    <b>Pós-graduação em Big Data e Inteligência Artificial</b> - Uninter
-    <br/>
-    <small>Especialização em análise de grandes volumes de dados e aplicação de algoritmos de IA.</small>
-  </p>
-</div>
-
----
-<h3 align="left">📊 Minhas Estatísticas no GitHub</h3>
-
-[![zeer0e1 GitHub stats](https://github-stats-extended.vercel.app/api?username=zeer0e1)](https://github.com/stats-organization/github-stats-extended)
-
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=zeer0e1&langs_count=4)
----
-
-<h3 align="left">🛠️ Tecnologias e Ferramentas</h3>
-<div align="left">
-  <h4>Linguagens</h4>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
-  <br/><br/>
-  <h4>Frameworks & Bibliotecas</h4>
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="30" alt="flask logo"  />
-  <br/><br/>
-  <h4>Bancos de Dados</h4>
-  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
-  <br/><br/>
-  <h4>Cloud & DevOps</h4>
-  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
-  <br/><br/>
-  <h4>Sistemas Operacionais & Outros</h4>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="30" alt="ubuntu logo"  />
-</div>
-
----
-
-<h3 align="left">🤝 Vamos nos conectar!</h3>
 <div align="center">
-  <a href="mailto:lucazfreitaz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/lucasfreitaz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+
+# Lucas Ribeiro
+### Analista de Sistemas → ML Engineer Jr.
+
+**Python · SQL · Dados · Machine Learning · MLOps**
+
+Construindo minha transição com estudo, prática e projetos documentados.
+
+[LinkedIn](https://www.linkedin.com/in/lucasfreitaz/) · [E-mail](mailto:lucazfreitaz@gmail.com) · [GitHub](https://github.com/zeer0e1)
+
 </div>
+
+---
+
+## 🇧🇷 Sobre mim
+
+Sou Analista de Sistemas em transição para **ML Engineer Jr.**, em Sorocaba, SP. Estou estudando machine learning, Python, SQL, dados e MLOps, conectando minha base em sistemas à construção de soluções com dados.
+
+Este perfil reúne **projetos de estudo e automações**. Minha experiência em ML está em formação: quero demonstrar aprendizado com código, documentação e resultados verificáveis.
+
+## Stack e foco de aprendizado
+
+| Área | Ferramentas e temas |
+| :--- | :--- |
+| Prática nos repositórios | Python, pandas, Jupyter, Git/GitHub, APIs, automação e Django |
+| Estudos atuais | SQL, análise exploratória, estatística, preparação de dados e machine learning |
+| Próximos passos | scikit-learn, avaliação de modelos, testes, APIs de inferência e fundamentos de MLOps |
+
+## Projetos em destaque
+
+| Projeto | O que você encontra |
+| :--- | :--- |
+| [Data Science — Alura](https://github.com/zeer0e1/data-science-alura) | Notebooks da formação de Data Science; exercícios de estudo. |
+| [pandas](https://github.com/zeer0e1/pandas) | Prática de manipulação e análise de dados em notebooks. |
+| [Visualização de dados](https://github.com/zeer0e1/avancando-datascience-alura) | Continuação dos estudos de Data Science, com foco em gráficos em Python. |
+| [ETL — Bootcamp Santander](https://github.com/zeer0e1/dio-santbootcamp-etl-project) | Projeto educacional de ETL com Python e arquivos de dados. |
+| [Consulta de CEP](https://github.com/zeer0e1/cep-correios) | Automação para consultar endereços a partir de uma planilha. |
+| [Automação de formulário web](https://github.com/zeer0e1/RPA-formulario-web) | Prática de preenchimento de formulários com Python. |
+
+Os projetos acima representam minha trajetória de aprendizado; não são apresentados como sistemas de ML em produção.
+
+## Trilha de estudos
+
+1. **Fundamentos:** Python, estruturas de dados, Git e SQL.
+2. **Dados:** pandas, limpeza, análise exploratória, visualização e estatística.
+3. **Machine learning:** modelos supervisionados, validação, métricas e prevenção de vazamento de dados.
+4. **Engenharia:** código organizado, testes, ambientes reproduzíveis e APIs.
+5. **MLOps:** versionamento de dados e modelos, acompanhamento de experimentos, entrega e monitoramento.
+
+## Metas atuais
+
+- Seguir uma trilha estruturada de estudos para ML Engineer Jr.
+- Desenvolver um projeto de churn, começando pela análise dos dados e por um modelo de referência.
+- Documentar decisões, métricas, limitações e instruções de execução.
+- Evoluir gradualmente do notebook para um pipeline reproduzível e uma API de inferência.
+- Consolidar SQL e boas práticas de engenharia de software.
+
+---
+
+## 🇬🇧 About me
+
+I'm a **Systems Analyst transitioning to a Junior ML Engineer role**, based in Sorocaba, Brazil. I'm studying machine learning, Python, SQL, data and MLOps, building on my background in systems.
+
+My repositories showcase **learning projects and Python automation**. I'm developing my ML skills through hands-on study and documented work, without claiming production ML experience.
+
+**Learning path:** Python & SQL → data analysis & statistics → machine learning & evaluation → software engineering → MLOps fundamentals.
+
+**Current goals:** build a churn learning project, document reproducible workflows, strengthen SQL, and gradually add testing and an inference API. The featured repositories above cover data analysis, visualization, educational ETL and web automation.
+
+## Contato / Contact
+
+[LinkedIn](https://www.linkedin.com/in/lucasfreitaz/) · [lucazfreitaz@gmail.com](mailto:lucazfreitaz@gmail.com)
+
+Aberto a trocar experiências sobre estudos, dados e oportunidades de ML Engineer Jr.
+
+Open to learning together, discussing data projects and junior ML engineering opportunities.
