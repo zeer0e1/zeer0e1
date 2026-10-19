@@ -1,11 +1,11 @@
 <div align="center">
 
 # Lucas Ribeiro
-### Analista de Sistemas → ML Engineer Jr.
+### Analista de Sistemas | Em transição para Desenvolvedor Java Backend Júnior
 
-**Python · SQL · Dados · Machine Learning · MLOps**
+**Java · SQL Server · APIs · Spring Boot (em estudo) · AWS (próxima etapa)**
 
-Construindo minha transição com estudo, prática e projetos documentados.
+Construindo minha evolução em backend com estudos consistentes, exercícios e projetos documentados.
 
 [LinkedIn](https://www.linkedin.com/in/lucasfreitaz/) · [E-mail](mailto:lucazfreitaz@gmail.com) · [GitHub](https://github.com/zeer0e1)
 
@@ -13,65 +13,62 @@ Construindo minha transição com estudo, prática e projetos documentados.
 
 ---
 
-## 🇧🇷 Sobre mim
+## 👋 Sobre mim
 
-Sou Analista de Sistemas em transição para **ML Engineer Jr.**, em Sorocaba, SP. Estou estudando machine learning, Python, SQL, dados e MLOps, conectando minha base em sistemas à construção de soluções com dados.
+Sou Analista de Sistemas, com experiência em **SQL Server, desenvolvimento e manutenção de sistemas, integrações e automação de processos**. Estou direcionando minha carreira para **desenvolvimento backend com Java**, aproveitando minha experiência com regras de negócio, bancos de dados e resolução de problemas reais.
 
-Este perfil reúne **projetos de estudo e automações**. Minha experiência em ML está em formação: quero demonstrar aprendizado com código, documentação e resultados verificáveis.
+Atualmente, estudo **Java e programação orientada a objetos**. Minha trilha avança para **Spring Boot, construção de APIs REST, testes, persistência de dados e fundamentos de AWS**. Estou construindo essas competências na prática — sem apresentar ferramentas ainda em estudo como experiência profissional consolidada.
 
-## Stack e foco de aprendizado
+## 🛠️ Experiência e trilha técnica
 
-| Área | Ferramentas e temas |
+| Experiência / prática | Em estudo / próximos passos |
 | :--- | :--- |
-| Prática nos repositórios | Python, pandas, Jupyter, Git/GitHub, APIs, automação e Django |
-| Estudos atuais | SQL, análise exploratória, estatística, preparação de dados e machine learning |
-| Próximos passos | scikit-learn, avaliação de modelos, testes, APIs de inferência e fundamentos de MLOps |
+| SQL Server, consultas e procedures | Java e orientação a objetos |
+| Sistemas corporativos e regras de negócio | Spring Boot e APIs REST |
+| Integrações e automações com C# e Python | JPA/Hibernate e testes automatizados |
+| Git e GitHub | Docker, fundamentos de AWS e deploy |
 
-## Projetos em destaque
+## ☕ Projeto principal — Java Backend Roadmap
 
-| Projeto | O que você encontra |
-| :--- | :--- |
-| [Data Science — Alura](https://github.com/zeer0e1/data-science-alura) | Notebooks da formação de Data Science; exercícios de estudo. |
-| [pandas](https://github.com/zeer0e1/pandas) | Prática de manipulação e análise de dados em notebooks. |
-| [Visualização de dados](https://github.com/zeer0e1/avancando-datascience-alura) | Continuação dos estudos de Data Science, com foco em gráficos em Python. |
-| [ETL — Bootcamp Santander](https://github.com/zeer0e1/dio-santbootcamp-etl-project) | Projeto educacional de ETL com Python e arquivos de dados. |
-| [Consulta de CEP](https://github.com/zeer0e1/cep-correios) | Automação para consultar endereços a partir de uma planilha. |
-| [Automação de formulário web](https://github.com/zeer0e1/RPA-formulario-web) | Prática de preenchimento de formulários com Python. |
+### [java-backend-roadmap](https://github.com/zeer0e1/java-backend-roadmap)
 
-Os projetos acima representam minha trajetória de aprendizado; não são apresentados como sistemas de ML em produção.
+Repositório com exercícios, código e anotações da minha jornada para Java Backend Júnior.
 
-## Trilha de estudos
+**Etapas documentadas até agora:**
+- **Dia 01:** JVM, classes, métodos, objetos e exercício de conta bancária.
+- **Dia 02:** variáveis, tipos de dados, instâncias e referências de objetos.
+- **Dia 03:** condicionais, operadores lógicos, `switch` e exercícios.
 
-1. **Fundamentos:** Python, estruturas de dados, Git e SQL.
-2. **Dados:** pandas, limpeza, análise exploratória, visualização e estatística.
-3. **Machine learning:** modelos supervisionados, validação, métricas e prevenção de vazamento de dados.
-4. **Engenharia:** código organizado, testes, ambientes reproduzíveis e APIs.
-5. **MLOps:** versionamento de dados e modelos, acompanhamento de experimentos, entrega e monitoramento.
+**Próximas etapas da trilha:** aprofundar orientação a objetos e coleções; trabalhar com exceções, testes e persistência; construir uma API REST com Spring Boot; conhecer Docker e realizar um primeiro deploy na AWS.
 
-## Metas atuais
+> Este repositório registra minha evolução. Os conteúdos de Spring Boot e AWS são objetivos de estudo, não projetos concluídos.
 
-- Seguir uma trilha estruturada de estudos para ML Engineer Jr.
-- Desenvolver um projeto de churn, começando pela análise dos dados e por um modelo de referência.
-- Documentar decisões, métricas, limitações e instruções de execução.
-- Evoluir gradualmente do notebook para um pipeline reproduzível e uma API de inferência.
-- Consolidar SQL e boas práticas de engenharia de software.
+## 📂 Outros projetos
+
+- [Consulta de CEP](https://github.com/zeer0e1/cep-correios) — automação e consumo de dados de endereçamento.
+- [Automação de formulário web](https://github.com/zeer0e1/RPA-formulario-web) — prática com automação usando Python.
+- [Data Science — Alura](https://github.com/zeer0e1/data-science-alura) — parte da minha trajetória anterior de aprendizagem em dados.
+
+## 🎯 Objetivos
+
+1. Consolidar a base de **Java, orientação a objetos, coleções e boas práticas**.
+2. Desenvolver uma **API REST com Spring Boot** e banco de dados relacional.
+3. Adicionar **testes, tratamento de erros, documentação e Docker** aos projetos.
+4. Aprender os fundamentos de **AWS** e publicar uma aplicação backend.
+5. Construir um portfólio que demonstre **código funcional e evolução técnica**, visando oportunidades de **Java Backend Júnior**, inclusive remotas.
 
 ---
 
 ## 🇬🇧 About me
 
-I'm a **Systems Analyst transitioning to a Junior ML Engineer role**, based in Sorocaba, Brazil. I'm studying machine learning, Python, SQL, data and MLOps, building on my background in systems.
+I'm a **Systems Analyst transitioning to Junior Java Backend Development**, with experience in SQL Server, business systems, integrations and process automation.
 
-My repositories showcase **learning projects and Python automation**. I'm developing my ML skills through hands-on study and documented work, without claiming production ML experience.
+I'm currently studying **Java fundamentals and object-oriented programming**. My learning roadmap progresses toward **Spring Boot, REST APIs, automated testing, relational persistence, Docker and AWS fundamentals**.
 
-**Learning path:** Python & SQL → data analysis & statistics → machine learning & evaluation → software engineering → MLOps fundamentals.
+My main learning repository is [java-backend-roadmap](https://github.com/zeer0e1/java-backend-roadmap), where I document exercises and progress. Technologies on my roadmap are learning goals, not claims of professional expertise.
 
-**Current goals:** build a churn learning project, document reproducible workflows, strengthen SQL, and gradually add testing and an inference API. The featured repositories above cover data analysis, visualization, educational ETL and web automation.
+**Open to connecting about backend development, learning and junior Java opportunities.**
 
-## Contato / Contact
+## 📫 Contato / Contact
 
 [LinkedIn](https://www.linkedin.com/in/lucasfreitaz/) · [lucazfreitaz@gmail.com](mailto:lucazfreitaz@gmail.com)
-
-Aberto a trocar experiências sobre estudos, dados e oportunidades de ML Engineer Jr.
-
-Open to learning together, discussing data projects and junior ML engineering opportunities.
