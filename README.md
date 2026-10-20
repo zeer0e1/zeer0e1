@@ -1,11 +1,11 @@
 <div align="center">
 
 # Lucas Ribeiro
-### Analista de Sistemas | Em transição para Desenvolvedor Java Backend Júnior
+### Analista de Sistemas Pleno | Em transição para Engenharia de Dados
 
-**Java · SQL Server · APIs · Spring Boot (em estudo) · AWS (próxima etapa)**
+**SQL Server · Python · Power BI · Integrações · Automações · Linux**
 
-Construindo minha evolução em backend com estudos consistentes, exercícios e projetos documentados.
+Experiência em sistemas corporativos e dados, construindo a transição para Engenharia de Dados com estudos e projetos práticos documentados.
 
 [LinkedIn](https://www.linkedin.com/in/lucasfreitaz/) · [E-mail](mailto:lucazfreitaz@gmail.com) · [GitHub](https://github.com/zeer0e1)
 
@@ -15,59 +15,46 @@ Construindo minha evolução em backend com estudos consistentes, exercícios e 
 
 ## 👋 Sobre mim
 
-Sou Analista de Sistemas, com experiência em **SQL Server, desenvolvimento e manutenção de sistemas, integrações e automação de processos**. Estou direcionando minha carreira para **desenvolvimento backend com Java**, aproveitando minha experiência com regras de negócio, bancos de dados e resolução de problemas reais.
+Sou Analista de Sistemas, com experiência profissional em **SQL Server, sistemas corporativos, integrações e automação de processos**. Também trabalho com **Python, Power BI e Linux** em atividades e projetos, e estou direcionando meus estudos para **Engenharia de Dados**.
 
-Atualmente, estudo **Java e programação orientada a objetos**. Minha trilha avança para **Spring Boot, construção de APIs REST, testes, persistência de dados e fundamentos de AWS**. Estou construindo essas competências na prática — sem apresentar ferramentas ainda em estudo como experiência profissional consolidada.
+Minha experiência com bancos de dados, regras de negócio e integração entre sistemas é a base dessa transição. Estou aprofundando conhecimentos em processamento e transformação de dados, Python, SQL e ferramentas do ecossistema de dados. As competências em formação são apresentadas como estudos e projetos, sem confundi-las com experiência profissional em Engenharia de Dados.
 
-## 🛠️ Experiência e trilha técnica
+## 🧰 Experiência e estudos
 
-| Experiência / prática | Em estudo / próximos passos |
+| Experiência profissional | Estudos e projetos em dados |
 | :--- | :--- |
-| SQL Server, consultas e procedures | Java e orientação a objetos |
-| Sistemas corporativos e regras de negócio | Spring Boot e APIs REST |
-| Integrações e automações com C# e Python | JPA/Hibernate e testes automatizados |
-| Git e GitHub | Docker, fundamentos de AWS e deploy |
+| SQL Server e sistemas corporativos | Python para manipulação e transformação de dados |
+| Integrações entre sistemas | Projetos de ETL e análise de dados |
+| Automação de processos | Power BI, Pandas e fundamentos de Spark |
+| Linux em ambiente de trabalho | Evolução contínua rumo à Engenharia de Dados |
 
-## ☕ Projeto principal — Java Backend Roadmap
+## 📊 Projetos e estudos em dados
 
-### [java-backend-roadmap](https://github.com/zeer0e1/java-backend-roadmap)
+- [Pipeline de ETL com Python — Bootcamp Santander/DIO](https://github.com/zeer0e1/dio-santbootcamp-etl-project) — exercício de bootcamp que combina arquivos CSV de usuários e destinos e gera um arquivo de saída.
+- [Power BI — projeto de curso](https://github.com/zeer0e1/data-analyst) — repositório associado a curso de análise com Power BI.
+- [Formação em Data Science — Alura](https://github.com/zeer0e1/data-science-alura) e [continuação](https://github.com/zeer0e1/avancando-datascience-alura) — registros de formação e exercícios.
+- [Estudos de Pandas — Alura](https://github.com/zeer0e1/pandas) — práticas de manipulação e análise de dados com Pandas.
+- [Estudo de Apache Spark](https://github.com/zeer0e1/spark) — repositório de estudo arquivado, mantido como registro da trajetória.
 
-Repositório com exercícios, código e anotações da minha jornada para Java Backend Júnior.
+Esses repositórios registram cursos e práticas pessoais; não representam entregas profissionais de Engenharia de Dados.
 
-**Etapas documentadas até agora:**
-- **Dia 01:** JVM, classes, métodos, objetos e exercício de conta bancária.
-- **Dia 02:** variáveis, tipos de dados, instâncias e referências de objetos.
-- **Dia 03:** condicionais, operadores lógicos, `switch` e exercícios.
+## ☕ Trajetória complementar
 
-**Próximas etapas da trilha:** aprofundar orientação a objetos e coleções; trabalhar com exceções, testes e persistência; construir uma API REST com Spring Boot; conhecer Docker e realizar um primeiro deploy na AWS.
+Também mantenho [estudos e projetos Java](https://github.com/zeer0e1/java-backend-roadmap) e outros projetos de programação. Eles fazem parte da minha trajetória técnica; meu objetivo de transição atual é Engenharia de Dados.
 
-> Este repositório registra minha evolução. Os conteúdos de Spring Boot e AWS são objetivos de estudo, não projetos concluídos.
+## 🎯 Objetivo
 
-## 📂 Outros projetos
-
-- [Consulta de CEP](https://github.com/zeer0e1/cep-correios) — automação e consumo de dados de endereçamento.
-- [Automação de formulário web](https://github.com/zeer0e1/RPA-formulario-web) — prática com automação usando Python.
-- [Data Science — Alura](https://github.com/zeer0e1/data-science-alura) — parte da minha trajetória anterior de aprendizagem em dados.
-
-## 🎯 Objetivos
-
-1. Consolidar a base de **Java, orientação a objetos, coleções e boas práticas**.
-2. Desenvolver uma **API REST com Spring Boot** e banco de dados relacional.
-3. Adicionar **testes, tratamento de erros, documentação e Docker** aos projetos.
-4. Aprender os fundamentos de **AWS** e publicar uma aplicação backend.
-5. Construir um portfólio que demonstre **código funcional e evolução técnica**, visando oportunidades de **Java Backend Júnior**, inclusive remotas.
+Consolidar fundamentos e construir projetos reproduzíveis que demonstrem evolução em **Engenharia de Dados**, aproveitando minha experiência em SQL Server, integrações, automação, Python e análise de informações.
 
 ---
 
 ## 🇬🇧 About me
 
-I'm a **Systems Analyst transitioning to Junior Java Backend Development**, with experience in SQL Server, business systems, integrations and process automation.
+I'm a Systems Analyst with professional experience in **SQL Server, business systems, integrations and process automation**. I also work with **Python, Power BI and Linux** in activities and projects, and I am currently transitioning toward **Data Engineering**.
 
-I'm currently studying **Java fundamentals and object-oriented programming**. My learning roadmap progresses toward **Spring Boot, REST APIs, automated testing, relational persistence, Docker and AWS fundamentals**.
+My database, business rules and systems integration background supports this transition. I am developing my data engineering skills through study and documented projects. Learning projects are described as study work, not as professional Data Engineering experience.
 
-My main learning repository is [java-backend-roadmap](https://github.com/zeer0e1/java-backend-roadmap), where I document exercises and progress. Technologies on my roadmap are learning goals, not claims of professional expertise.
-
-**Open to connecting about backend development, learning and junior Java opportunities.**
+**Focus:** SQL Server, Python, Power BI, integrations, automation and Data Engineering studies.
 
 ## 📫 Contato / Contact
 
